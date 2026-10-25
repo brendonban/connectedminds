@@ -1,0 +1,30 @@
+{
+  "title": "Get Involved",
+  "intro": "We welcome students looking for research experience, and researchers or organizations interested in collaborating with us on healthy-ageing research.",
+  "internships": [
+    {
+      "title": "Research Internship / Research Assistant",
+      "description": "Help run study sessions, assist with EEG data collection, and support analysis of cognitive-games data.",
+      "requirements": "Open to Sunway University students (Psychology, Neuroscience, or related fields). No prior EEG experience required — training is provided."
+    }
+  ],
+  "collaborations": [
+    {
+      "title": "Partner With Us",
+      "description": "We're open to collaborating with other labs, faculty, and organizations working on healthy ageing, cognitive training, or social neuroscience.",
+      "contact": "Julia Rosalyn Md Yazid"
+    }
+  ],
+  "faq": [
+    {
+      "q": "[Question]",
+      "a": "[Answer]"
+    }
+  ],
+  "contact": {
+    "note": "If you'd like to be considered for an internship or discuss a collaboration, feel free to email us with a short note about your interest.",
+    "buttonLabel": "Get in touch",
+    "email": "julia.m3@imail.sunway.edu.my",
+    "subject": "Internship / Collaboration Inquiry - Connected Minds"
+  }
+}

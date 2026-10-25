@@ -1,0 +1,32 @@
+{
+  "title": "Location",
+  "intro": "To take part in this research study, you will be expected to attend one lab session. Our research venue is located at the Human Performance Lab, Level 3 of Sunway University.",
+  "address": "5, Jalan Universiti, Bandar Sunway, 47500 Petaling Jaya, Selangor",
+  "parkingOptions": [
+    {
+      "title": "Parking 1",
+      "subtitle": "Sunway University Basement Parking",
+      "rates": [
+        "First 2 hours: RM2.00",
+        "Subsequent hour: RM1.00",
+        "Maximum charge per entry: RM5.00"
+      ],
+      "photo": ""
+    },
+    {
+      "title": "Parking 2",
+      "subtitle": "BRT Complex",
+      "rates": [
+        "First 3 hours: RM3.00",
+        "Subsequent hour: RM1.00",
+        "Maximum charge per entry: RM7.70"
+      ],
+      "photo": ""
+    }
+  ],
+  "publicTransport": {
+    "title": "Public Transport (BRT)",
+    "description": "The BRT Sunway Line is connected to the LRT Kelana Jaya Line (LRT Laluan Kelana Jaya) at USJ 7 station.",
+    "photo": ""
+  }
+}

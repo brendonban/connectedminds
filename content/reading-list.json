@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "slug": "what-is-cognitive-ageing",
+      "year": "2026",
+      "title": "What is \"Cognitive Ageing\"?",
+      "date": "Feb 23",
+      "publishedDate": "Feb 23, 2026",
+      "externalHref": "",
+      "body": "Does it mean memory loss or even dementia? Should we be concerned about it?\n\nCognitive ageing refers to the natural changes in our brain structure and its ability to carry out mental functions as we age. It’s a process that looks different for each person, with some noticing more changes, and others less. Importantly, cognitive ageing is normal and does not necessarily always lead to neurological conditions such as Alzheimer’s disease.\n\n## What cognitive changes can we expect?\n\nOur cognitive functions include more than just memory, and some of our abilities may change more than others.\n\n### 1. 🏃 Speed of information processing\n\nOur abilities to process information and respond to things become generally slower as we age. For example: reacting quickly when driving may become more difficult which can increase the risk of accidents.\n\n### 2. 🎯 Attention\n\nAttention involves our abilities to focus on and process information for long periods of time. Paying attention for a long period of time can be more tiring with age. But here’s some good news: research has shown that abilities to maintain attention are generally maintained!\n\n### 3. 📓 Memory\n\nThere are multiple types of memory with different trends of change:\n\n**Working memory** is the ability to hold information temporarily while processing or using it – hence, “working” with the information. It’s important in problem solving, decision making, and learning, and is involved in tasks such as remembering a phone number while dialing it or following step-by-step instructions. Working memory generally declines with age.\n\n**Long-term memory** includes several types, such as semantic, episodic, and procedural memory. *Semantic memory* involves remembering facts, e.g. who the current prime minister is. Although it’s generally preserved, we may experience some difficulty in retrieving information, but cues can help overcome this. *Episodic memory* is the memory of the “what”, “when” and “where” of our personal experiences. For example, remembering where your car is parked involves episodic memory. Episodic memory typically declines over time. *Procedural memory* is the memory of performing skills, or “skill learning”. This includes driving, typing on a keyboard, or cooking a favourite recipe. Procedural memory becomes stronger over time with practice, eventually becoming automatic without needing much effort to execute. While older adults may find it slower, they are still capable of doing or learning new procedures.\n\n### 4. 💪 Executive function\n\nExecutive function refers to the effortful mental processes that regulate our behaviour and change our responses according to our environments, such as planning, thinking abstractly, and reasoning. This includes organising schedules, understanding another person’s perspective, and coming up with a creative solution to solve a problem. This family of mental processes typically declines with age.\n\n### 5. 🗣️ Language function\n\nLanguage function includes abilities to understand and produce speech, reading, and writing. With age, we may struggle to find the words we want to express. We also tend to produce simpler sentences as we age. However, the ability to understand the meaning of words typically maintains with age, with the exception of distorted or fast speech (e.g. loudspeaker announcements).\n\n### 6. 🧩 Intelligence\n\nThere are two types of intelligence – crystallised intelligence, which refers to a person’s knowledge (e.g. knowing math symbols and numbers), and fluid intelligence which involves processing new information and problem solving (e.g. solving math equations). Crystallised intelligence typically maintains or improves as we gain more knowledge with age. However, fluid intelligence starts declining much earlier and more gradually.\n\nIn summary, our brain is complex and involves many different kinds of functions that change differently as we age. Cognitive ageing is normal, but it’s unique for each person as it depends on an array of biological, environmental, and social factors. Though certain functions will inevitably decline, serious worsening in cognition could be symptoms of neurological conditions. If you or a loved one notice severe changes, it’s a good idea to talk to your doctor.\n\n## ☀️ The Bright Side\n\nThere are positive aspects to cognitive ageing as some abilities will likely continue staying strong or even improving, such as our knowledge and abilities to learn. So, don’t underestimate what your brain can do in your golden years! 💛",
+      "author": {
+        "name": "Amanda De Witt",
+        "role": "Research Assistant @ Connected Minds, Stronger Minds Project",
+        "bio": "Amanda is a final year BSc (Hons) Psychology student at Sunway University. She is interested in pursuing research to increase mental health support accessibility for older adults and their caregiving system."
+      },
+      "references": [
+        {
+          "text": "Blazer, D. G., Yaffe, K., Liverman, C. T., Aging, C. on the P. H. D. of C., Policy, B. on H. S., & Medicine, I. of. (2015a). Characterizing and assessing Cognitive aging. In Cognitive Aging: Progress in Understanding and Opportunities for Action. National Academies Press (US).",
+          "href": "https://www.ncbi.nlm.nih.gov/books/NBK316201/"
+        },
+        {
+          "text": "Blazer, D. G., Yaffe, K., Liverman, C. T., Aging, C. on the P. H. D. of C., Policy, B. on H. S., & Medicine, I. of. (2015b). Introduction. In Cognitive aging: Progress in understanding and opportunities for action. National Academies Press (US).",
+          "href": "https://www.ncbi.nlm.nih.gov/books/NBK316207/"
+        },
+        {
+          "text": "Commodari, E., & Guarnera, M. (2008). Attention and aging. Aging Clinical and Experimental Research, 20(6), 578–584.",
+          "href": "https://doi.org/10.1007/BF03324887"
+        },
+        {
+          "text": "Crawford, J. D., & Stankov, L. (1996). Age differences in the realism of confidence judgements: A calibration study using tests of fluid and crystallized intelligence. Learning and Individual Differences, 8(2), 83–103.",
+          "href": "https://doi.org/10.1016/S1041-6080(96)90027-8"
+        },
+        {
+          "text": "Diamond, A. (2013). Executive functions. Annual Review of Psychology, 64, 135–168.",
+          "href": "https://doi.org/10.1146/annurev-psych-113011-143750"
+        }
+      ]
+    }
+  ]
+}

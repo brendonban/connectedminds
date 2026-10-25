@@ -1,0 +1,92 @@
+{
+  "intro": "Meet and learn more about the research team and affiliates. We also do fun things together.",
+  "members": [
+    {
+      "name": "Julia Rosalyn Md Yazid",
+      "jobtitle": "Principal Investigator",
+      "degree": "PI",
+      "photo": "",
+      "bio": "",
+      "links": []
+    },
+    {
+      "name": "Brendon Ban",
+      "jobtitle": "Research Assistant",
+      "degree": "",
+      "photo": "",
+      "bio": "",
+      "links": []
+    },
+    {
+      "name": "Chathuni Divyanjalee Kadahettige",
+      "jobtitle": "Research Assistant",
+      "degree": "",
+      "photo": "",
+      "bio": "",
+      "links": []
+    },
+    {
+      "name": "Nicole Ng Hui Lim",
+      "jobtitle": "Research Assistant",
+      "degree": "",
+      "photo": "",
+      "bio": "",
+      "links": []
+    },
+    {
+      "name": "Preissha RSN Murali",
+      "jobtitle": "Research Assistant",
+      "degree": "",
+      "photo": "",
+      "bio": "",
+      "links": []
+    }
+  ],
+  "supervisors": [
+    {
+      "name": "Dr Michael Jenkins",
+      "jobtitle": "Assistant Professor, University of Nottingham Malaysia",
+      "degree": "Supervisor",
+      "photo": "",
+      "bio": "",
+      "links": []
+    },
+    {
+      "name": "Assoc. Prof. Dr Woo Pei Jun",
+      "jobtitle": "Acting Dean, School of American Education, Sunway University",
+      "degree": "Supervisor",
+      "photo": "",
+      "bio": "",
+      "links": []
+    },
+    {
+      "name": "Dr Lee Ai Suan",
+      "jobtitle": "Lecturer & Programme Leader, MSc Psychology, Sunway University",
+      "degree": "Supervisor",
+      "photo": "",
+      "bio": "",
+      "links": []
+    }
+  ],
+  "alumni": [
+    {
+      "name": "[Full Name]",
+      "href": "#",
+      "role": "Research assistant",
+      "focus": "[what they worked on]",
+      "years": "[20XX-20XX]",
+      "now": "[current position/organization]",
+      "nowHref": "#"
+    },
+    {
+      "name": "[Full Name]",
+      "href": "",
+      "role": "Grad student",
+      "focus": "[what they worked on]",
+      "years": "[20XX-20XX]",
+      "now": "",
+      "nowHref": ""
+    }
+  ],
+  "collaboratorsNote": "[A short, casual line thanking your collaborating labs or partner organizations goes here.]"
+}

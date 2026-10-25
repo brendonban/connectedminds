@@ -1,0 +1,38 @@
+@import "tailwindcss";
+@plugin "@tailwindcss/typography";
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+:root {
+  --background: #ffffff;
+  --foreground: #18181b;
+  --muted: #52525b;
+  --divider: rgba(0, 0, 0, 0.08);
+  --accent-primary: #2563eb;
+}
+
+.dark {
+  --background: #0a0a0a;
+  --foreground: #f4f4f5;
+  --muted: #b5b5ba;
+  --divider: rgba(255, 255, 255, 0.1);
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-muted: var(--muted);
+  --color-divider: var(--divider);
+  --color-accent-primary: var(--accent-primary);
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Helvetica, Arial, sans-serif;
+  /* Accessible baseline: readable for both younger and older adults
+     without relying on the browser default alone. */
+  font-size: 16px;
+  line-height: 1.6;
+}

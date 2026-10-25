@@ -1,0 +1,62 @@
+{
+  "title": "Participate",
+  "subtitle": "Experimental Study on Cooperative Social Interactions, Cognition, and Brain Activity",
+  "poster": "",
+  "intro": "Thank you for your interest in participating in our study! As part of this research, you will need to sign up with a friend who will be your partner throughout your experimental session.",
+  "studyDetails": {
+    "venue": "Human Performance Lab, Level 3, Sunway University",
+    "dateTime": "Subject to your availability",
+    "duration": "100 minutes"
+  },
+  "eligibility": {
+    "intro": "For the older adult group, participants should be:",
+    "items": [
+      "Malaysian",
+      "60 years of age or above",
+      "Free from a severe head injury or a diagnosed neurological condition",
+      "Have normal or corrected vision and hearing",
+      "Not taking any neurologically active medication"
+    ],
+    "partnerNote": "Your partner needs to meet the same criteria."
+  },
+  "partnerSection": "Social interaction is central to this research, so we ask you to sign up with a partner rather than assigning one for you. You're welcome to bring anyone you already have a relationship with — a friend, relative, or spouse — as long as they also meet the eligibility criteria above.",
+  "compensation": [
+    "RM 30 Grab voucher per person for each lab session",
+    "Top performers on cognitive games can win an additional RM100 Grab voucher per person"
+  ],
+  "timeline": {
+    "note": "The entire programme consists of two lab sessions and a 2-week intervention at home.",
+    "steps": [
+      "First lab session: Pre-test for EEG and cognitive assessment baseline measures",
+      "2-week intervention: Play online cognitive games at home",
+      "Second lab session: Post-test for EEG and cognitive assessment baseline measures"
+    ]
+  },
+  "notes": [
+    "Even though you are required to sign up as a pair, you may be randomly assigned to play the cognitive games individually throughout the study.",
+    "This study consists of a 2 week-long intervention period at home. However, it is not a long-term programme."
+  ],
+  "confidentiality": "All data collected is handled confidentially. It is not linked to personally identifiable information, and it's stored in password-protected folders and locked facilities.",
+  "researcher": {
+    "name": "Julia Rosalyn Md Yazid",
+    "email": "julia.m3@imail.sunway.edu.my",
+    "phone": "+601169221207",
+    "phoneDisplay": "+60 11-6922 1207"
+  },
+  "signupLinks": [
+    {
+      "group": "Younger Adult",
+      "forms": [
+        { "label": "English", "href": "https://forms.gle/fzJRoV27MdiUeJ2w6" },
+        { "label": "Chinese", "href": "https://forms.gle/zr9o1aJk9Bki8NNV6" }
+      ]
+    },
+    {
+      "group": "Older Adult",
+      "forms": [
+        { "label": "English", "href": "https://forms.gle/YRYW94ZWyZUiPi9q8" },
+        { "label": "Chinese", "href": "https://forms.gle/EC8pLmhBHs6Lc7BP8" }
+      ]
+    }
+  ]
+}

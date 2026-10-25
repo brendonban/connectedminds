@@ -1,0 +1,18 @@
+{
+  "title": "FAQ",
+  "intro": "Common questions about taking part in the Connected Minds study.",
+  "items": [
+    {
+      "q": "Am I eligible?",
+      "a": "See the Eligibility section on the homepage — in short, Malaysian, 60 or older, no severe head injury or neurological diagnosis, normal or corrected vision and hearing, and no neurologically active medication. Your partner needs to meet the same criteria."
+    },
+    {
+      "q": "Do I have to join with a partner?",
+      "a": "Yes — social interaction is a core part of the study, so sign-up is as a pair."
+    },
+    {
+      "q": "Can you assign a partner for me?",
+      "a": "We're not able to — you'll need to bring someone you already know, such as a friend, relative, or spouse, who also meets the eligibility criteria."
+    }
+  ]
+}

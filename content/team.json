@@ -13,9 +13,18 @@
       "name": "Brendon Ban",
       "jobtitle": "Research Assistant",
       "degree": "",
-      "photo": "",
-      "bio": "",
-      "links": []
+      "photo": "/images/team/brendon-ban-f67b2e6d.webp",
+      "bio": "Brendon is currently a Master of Counseling student based at the Department of Educational Psychology & Counseling, Universiti Malaya with interests in identity, belonging, stigma & discrimination, social neuroscience, social perception, and wellbeing.",
+      "links": [
+        {
+          "type": "website",
+          "href": "https://brendonban.me"
+        },
+        {
+          "type": "linkedin",
+          "href": "https://www.linkedin.com/in/brendonban/"
+        }
+      ]
     },
     {
       "name": "Chathuni Divyanjalee Kadahettige",
